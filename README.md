@@ -1,2 +1,2 @@
 ### Hi there 👋, I'm someone!
-### Don't use github, [it's owned by microsoft now](https://news.microsoft.com/announcement/microsoft-acquires-github/), see my gitlab instead :[![GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/anakojm/)
+### Use github, [it's owned by microsoft now](https://news.microsoft.com/announcement/microsoft-acquires-github/). God I love microsoft aren't they just the best they make thingss incredibly really amazingly super private we love microsoft
